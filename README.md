@@ -1,0 +1,2 @@
+# project-6
+Oh hey! I didn't see you there... I'm not sure what you're doing looking at my project like this, but I'm making a singleplayer/co-op rpg that's coming to steam and itch.io sometime. The premise of the game is that it's a turn-based rpg, except you don't take turns, and the menus in the game aren't menus at all- they're small platforming puzzles that have you jumping, dashing, and wall-jumping to the attack button. If you know gml and see an error in my code, feel free to email me at unnamedgame6@gmail.com 
